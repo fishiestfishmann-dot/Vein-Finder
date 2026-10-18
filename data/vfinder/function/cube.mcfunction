@@ -1,0 +1,11 @@
+execute positioned ~ ~-5 ~ run function vfinder:square
+execute positioned ~ ~-4 ~ run function vfinder:square
+execute positioned ~ ~-3 ~ run function vfinder:square
+execute positioned ~ ~-2 ~ run function vfinder:square
+execute positioned ~ ~-1 ~ run function vfinder:square
+execute positioned ~ ~ ~ run function vfinder:square
+execute positioned ~ ~1 ~ run function vfinder:square
+execute positioned ~ ~2 ~ run function vfinder:square
+execute positioned ~ ~3 ~ run function vfinder:square
+execute positioned ~ ~4 ~ run function vfinder:square
+execute positioned ~ ~5 ~ run function vfinder:square
