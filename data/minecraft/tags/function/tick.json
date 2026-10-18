@@ -1,6 +1,7 @@
 {
   "values": [
   "vfinder:kill_old",
-  "vfinder:main"
+  "vfinder:main",
+  "vfinder:cleanup"
   ]
 }
